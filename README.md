@@ -13,7 +13,7 @@
 1. Clone this repository: `git clone https://github.com/aleksandarkoruga/node-chatgpt-api-osc`
 2. Install dependencies with `npm install`
 3. Rename `settings.example.js` to `settings.js` in the root directory and change the settings where required.
-4. From the root directory run `node bin\OSCServerTest.js`
+4. From the root directory run `node bin\OSCServerTest.js` or `npm run oscserver`
     
 
 ## TODO:
