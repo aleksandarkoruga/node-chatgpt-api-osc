@@ -6,7 +6,15 @@
 
 - This fork was created for the purpose of bringing ChatGPT into the SuperCollider environment to test live coding possibilities, architectural feedback, system design etc. 
 - I am not a JavaScript porgrammer so probably there can be a much better implementation for the relay.
-- Please follow the original README to set up your install then run OSCServerTest.js
+
+## Usage
+  Please follow the original README and [API Server](#api-server) to set up your settings then run OSCServerTest.js
+  - install and run the package directly.
+1. Clone this repository: `git clone https://github.com/aleksandarkoruga/node-chatgpt-api-osc`
+2. Install dependencies with `npm install`
+3. Rename `settings.example.js` to `settings.js` in the root directory and change the settings where required.
+4. From the root directory run `node bin\OSCServerTest.js`
+    
 
 ## TODO:
 - Some SuperCollider examples
