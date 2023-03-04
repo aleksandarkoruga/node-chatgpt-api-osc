@@ -1,6 +1,6 @@
 {
   "name": "@waylaidwanderer/chatgpt-api",
-  "version": "1.25.6",
+  "version": "1.24.0",
   "description": "A ChatGPT implementation using the official ChatGPT model via OpenAI's API.",
   "main": "index.js",
   "bin": {
@@ -11,6 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bin/server.js",
     "server": "node bin/server.js",
+    "oscserver": "node bin/OSCServerTest.js",
     "cli": "node bin/cli.js"
   },
   "author": "waylaidwanderer",
@@ -35,7 +36,8 @@
     "gpt-4",
     "chatgpt",
     "chatgpt-api",
-    "bing-chat"
+    "bing-chat",
+    "osc"
   ],
   "dependencies": {
     "@dqbd/tiktoken": "^0.4.0",
@@ -53,6 +55,7 @@
     "keyv": "^4.5.2",
     "keyv-file": "^0.2.0",
     "ora": "^6.1.2",
+    "osc": "^2.4.1",
     "ws": "^8.12.0"
   }
 }
