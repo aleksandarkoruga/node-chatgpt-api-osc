@@ -6,7 +6,7 @@
 
 - This fork was created for the purpose of bringing ChatGPT into the SuperCollider environment to test live coding possibilities, architectural feedback, system design etc. 
 - I am not a JavaScript porgrammer so probably there can be a much better implementation for the relay.
-- Please follow the original README to set up your install then run OSCServerTest.js
+- Please follow the original README * [API Server](#api-server) to set up your install then run OSCServerTest.js
 
 ## TODO:
 - Some SuperCollider examples
