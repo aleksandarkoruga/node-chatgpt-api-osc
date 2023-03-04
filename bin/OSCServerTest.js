@@ -14,7 +14,7 @@ let path;
 if (arg) {
     path = arg.split('=')[1];
 } else {
-    path = '../settings.js';
+    path = './settings.js';
 }
 
 let settings;
