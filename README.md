@@ -1,3 +1,11 @@
+## ARCHIVED
+
+Refer to ChatGPTToOSC repo.
+
+
+
+
+
 <p align="center">
   <img alt="CLI demo" src="./demos/cli.gif">
 </p>
